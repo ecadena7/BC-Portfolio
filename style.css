@@ -16,10 +16,17 @@ body {
 }
 
 header {
-    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10%;
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color:azure;
 }
+/*
+h1 {
+    font-size: 250%;
+}*/
 nav {
     padding-top: 15px;
     margin-right: 20px;
