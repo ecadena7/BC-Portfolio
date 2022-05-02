@@ -28,6 +28,7 @@ header {
 h1 {
     display: inline-block;
     font-size: 50px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 
@@ -36,7 +37,7 @@ nav {
     text-align: right;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 30px;
-    background-color: none;
+    background-color: gray;
 }
 
 ul {
